@@ -7,7 +7,7 @@
   
 
 ## Установка
-1. Склонируйте репозиторий: 
+1. Клонируйте репозиторий: 
 ```bash
 git clone https://github.com/KinzyabaevVadim/TextifyRTF.git
 ```
