@@ -34,4 +34,6 @@ python main.py
 ```
 
 Работа программы:
+
+
 ![Code_XDHDWPVvXw](https://github.com/user-attachments/assets/d18e133b-cf7b-440e-8298-deaed7540d8e)
