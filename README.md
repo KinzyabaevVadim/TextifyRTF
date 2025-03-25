@@ -17,7 +17,7 @@ git clone https://github.com/KinzyabaevVadim/TextifyRTF.git
 ```bash
 python main.py
 ```
-3.Проверьте расшифрованный результат в консоли и в файле output.doc
+  3.Проверьте расшифрованный результат в консоли и в файле output.doc
 
 ## Примеры 
 #Пример 
