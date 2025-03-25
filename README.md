@@ -17,7 +17,8 @@ git clone https://github.com/KinzyabaevVadim/TextifyRTF.git
 ```bash
 python main.py
 ```
-  3.Проверьте расшифрованный результат в консоли и в файле output.doc
+
+3. Проверьте расшифрованный результат в консоли и в файле output.doc
 
 ## Примеры 
 #Пример 
@@ -31,3 +32,6 @@ python main.py
 ``` bash
 Оригинальная строка: '\uc0\u1050 \uc0\u1080 \uc0\u1085 \uc0\u1079 \uc0\u1100 \uc0\u1073 \uc0\u1072 \uc0\u1077 \uc0\u1074' | Расшифрованный текст: 'Кинзябаев'
 ```
+
+Работа программы:
+![Code_XDHDWPVvXw](https://github.com/user-attachments/assets/d18e133b-cf7b-440e-8298-deaed7540d8e)
